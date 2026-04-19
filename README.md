@@ -54,8 +54,6 @@ Atuo principalmente com **PHP, JavaScript e Ruby on Rails**, com forte foco em o
 
 ## 📊 Estatísticas GitHub
 
-## 📊 Estatísticas Detalhadas
-
 ![Minhas Métricas](https://raw.githubusercontent.com/llcardos/llcardos/main/github-metrics.svg)
 
 ---
