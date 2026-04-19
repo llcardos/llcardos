@@ -4,9 +4,12 @@ on:
   schedule:
     - cron: "0 */12 * * *" # Roda a cada 12 horas
   workflow_dispatch: 
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Generate Metrics
         uses: lowlighter/metrics@latest
