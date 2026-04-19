@@ -4,6 +4,7 @@
 
 Desenvolvedor Full Stack com mais de 2 anos de experiência profissional e sólida trajetória de 5 anos de especialização técnica.  
 Atuo principalmente com **PHP e JavaScript**, com foco em arquitetura de sistemas web, refatoração de sistemas legados e otimização de performance. Valorizo a escrita de código limpo e organizado para garantir a escalabilidade das aplicações.
+
 ---
 
 ##  Tecnologias e Ferramentas
