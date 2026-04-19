@@ -3,7 +3,7 @@
 **Full Stack Developer**
 
 Desenvolvedor Full Stack com 2+ anos de experiência criando e evoluindo sistemas web.  
-Atuo principalmente com **PHP, JavaScript e React**, com forte foco em organização de código, refatoração e melhoria de performance.
+Atuo principalmente com **PHP, JavaScript e Ruby on Rails**, com forte foco em organização de código, refatoração e melhoria de performance.
 
 Atualmente estudando **Java** e aprofundando conhecimentos em back-end e arquitetura de software.  
 🎓 Formação prevista: **Agosto/2026**
@@ -36,6 +36,8 @@ Atualmente estudando **Java** e aprofundando conhecimentos em back-end e arquite
 
 ### Back-end
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg"/>
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg"/>
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 
 <br/><br/>
@@ -51,15 +53,6 @@ Atualmente estudando **Java** e aprofundando conhecimentos em back-end e arquite
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
 
 <br/><br/>
-
----
-
-## 📚 Atualmente estudando
-
-- Java ☕  
-- Programação Orientada a Objetos  
-- Estruturas de dados  
-- Boas práticas de arquitetura back-end
 
 ---
 
@@ -80,5 +73,5 @@ Atualmente estudando **Java** e aprofundando conhecimentos em back-end e arquite
 
 ## 📫 Vamos nos conectar
 
-- 💼 LinkedIn: https://linkedin.com/in/SEU-LINK
-- 📧 Email: SEU-EMAIL
+- 💼 LinkedIn: https://www.linkedin.com/in/lcardoso-business/
+- 📧 Email: lucas.businesss@yahoo.com
