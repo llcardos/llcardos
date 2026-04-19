@@ -54,16 +54,9 @@ Atuo principalmente com **PHP, JavaScript e Ruby on Rails**, com forte foco em o
 
 ## 📊 Estatísticas GitHub
 
-<p>
-  <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=llcardos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&token=${{ secrets.GH_TOKEN }}" 
-  />
-  <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=llcardos&theme=tokyonight&layout=compact&custom_title=Tecnologias&count_private=true&token=${{ secrets.GH_TOKEN }}" 
-  />
-</p>
+## 📊 Estatísticas Detalhadas
+
+![Minhas Métricas](https://raw.githubusercontent.com/llcardos/llcardos/main/github-metrics.svg)
 
 ---
 
