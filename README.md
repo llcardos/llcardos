@@ -5,9 +5,6 @@
 Desenvolvedor Full Stack com 2+ anos de experiência criando e evoluindo sistemas web.  
 Atuo principalmente com **PHP, JavaScript e Ruby on Rails**, com forte foco em organização de código, refatoração e melhoria de performance.
 
-Atualmente estudando **Java** e aprofundando conhecimentos em back-end e arquitetura de software.  
-🎓 Formação prevista: **Agosto/2026**
-
 ---
 
 ## 🚀 Sobre mim
@@ -17,7 +14,6 @@ Atualmente estudando **Java** e aprofundando conhecimentos em back-end e arquite
 - ⚡ Criei uma solução interna que aumentou a eficiência de um processo em **até 18x**
 - 🎨 Também atuo com **UI/UX no Figma**
 - 🇺🇸 Inglês intermediário/avançado
-- 📚 Estudando **Java e POO** atualmente
 
 ---
 
@@ -61,11 +57,11 @@ Atualmente estudando **Java** e aprofundando conhecimentos em back-end e arquite
 <p>
   <img 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=llcardos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=llcardos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
   />
   <img 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=llcardos&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=llcardos&theme=tokyonight&layout=compact&custom_title=Tecnologias&count_private=true" 
   />
 </p>
 
